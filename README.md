@@ -34,40 +34,44 @@
 |-|:-:|
 |[704. 二分查找](https://leetcode.cn/problems/binary-search/)|[C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)|
 |[34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/34.%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)|
-|[875. 爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/)|[C++]()|
-|[1011. 在 D 天内送达包裹的能力](https://leetcode.cn/problems/capacity-to-ship-packages-within-d-days/)|[C++]()|
-|[410. 分割数组的最大值](https://leetcode.cn/problems/split-array-largest-sum/)|[C++]()|
+|[875. 爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/)|[C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/875.%20%E7%88%B1%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E7%8F%82%E7%8F%82.md)|
+|[1011. 在 D 天内送达包裹的能力](https://leetcode.cn/problems/capacity-to-ship-packages-within-d-days/)|[C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/1011.%20%E5%9C%A8%20D%20%E5%A4%A9%E5%86%85%E9%80%81%E8%BE%BE%E5%8C%85%E8%A3%B9%E7%9A%84%E8%83%BD%E5%8A%9B.md)|
+|[410. 分割数组的最大值](https://leetcode.cn/problems/split-array-largest-sum/)|[C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/410.%20%E5%88%86%E5%89%B2%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md)|
 
 + 前缀和
+
 |Title|Solution|
 |-|:-:|
-|[303. 区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/)|[C++]()|
-|[304. 二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable/)|[C++]()|
-|[528. 按权重随机选择](https://leetcode.cn/problems/random-pick-with-weight/)|[C++]()|
+|[303. 区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/)|[C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/303.%20%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98.md)|
+|[304. 二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable/)|[C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/304.%20%E4%BA%8C%E7%BB%B4%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E7%9F%A9%E9%98%B5%E4%B8%8D%E5%8F%AF%E5%8F%98.md)|
+|[528. 按权重随机选择](https://leetcode.cn/problems/random-pick-with-weight/)|[C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/528.%20%E6%8C%89%E6%9D%83%E9%87%8D%E9%9A%8F%E6%9C%BA%E9%80%89%E6%8B%A9.md)|
+
 + 差分
+
 |Title|Solution|
 |-|:-:|
-|[1109. 航班预订统计](https://leetcode.cn/problems/corporate-flight-bookings/)|[C++]()|
-|[1094. 拼车](https://leetcode.cn/problems/car-pooling/)|[C++]()|
+|[1109. 航班预订统计](https://leetcode.cn/problems/corporate-flight-bookings/)|[C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/1109.%20%E8%88%AA%E7%8F%AD%E9%A2%84%E8%AE%A2%E7%BB%9F%E8%AE%A1.md)|
+|[1094. 拼车](https://leetcode.cn/problems/car-pooling/)|[C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/1094.%20%E6%8B%BC%E8%BD%A6.md)|
 
 + 遍历数组
+
 |Title|Solution|
 |-|:-:|
-|[48. 旋转图像](https://leetcode.cn/problems/rotate-image/)|[C++]()|
-|[54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)|[C++]()|
+|[48. 旋转图像](https://leetcode.cn/problems/rotate-image/)|[C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/48.%20%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md)|
+|[54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)|[C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/54.%20%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.md)|
 
 + 常数时间删除/查找数组中的任意元素
 
 | Title                                                        | Solution |
 | ------------------------------------------------------------ | :------: |
-| [380. O(1) 时间插入、删除和获取随机元素](https://leetcode.cn/problems/insert-delete-getrandom-o1/) | [C++]()  |
-| [710. 黑名单中的随机数](https://leetcode.cn/problems/random-pick-with-blacklist/) | [C++]()  |
+| [380. O(1) 时间插入、删除和获取随机元素](https://leetcode.cn/problems/insert-delete-getrandom-o1/) | [C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/380.%20O(1)%20%E6%97%B6%E9%97%B4%E6%8F%92%E5%85%A5%E3%80%81%E5%88%A0%E9%99%A4%E5%92%8C%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E5%85%83%E7%B4%A0.md)  |
+| [710. 黑名单中的随机数](https://leetcode.cn/problems/random-pick-with-blacklist/) | [C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/710.%20%E9%BB%91%E5%90%8D%E5%8D%95%E4%B8%AD%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%95%B0.md)  |
 
 + 单调栈
 
 | Title                                                        | Solution |
 | ------------------------------------------------------------ | :------: |
-| [402. 移掉 K 位数字](https://leetcode.cn/problems/remove-k-digits/) | [C++]()  |
-| [1081. 不同字符的最小子序列](https://leetcode.cn/problems/smallest-subsequence-of-distinct-characters/) | [C++]()  |
-| [321. 拼接最大数](https://leetcode.cn/problems/create-maximum-number/) | [C++]()  |
+| [402. 移掉 K 位数字](https://leetcode.cn/problems/remove-k-digits/) | [C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/402.%20%E7%A7%BB%E6%8E%89%20K%20%E4%BD%8D%E6%95%B0%E5%AD%97.md)  |
+| [1081. 不同字符的最小子序列](https://leetcode.cn/problems/smallest-subsequence-of-distinct-characters/) | [C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/1081.%20%E4%B8%8D%E5%90%8C%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%90%E5%BA%8F%E5%88%97.md)  |
+| [321. 拼接最大数](https://leetcode.cn/problems/create-maximum-number/) | [C++](https://github.com/damenshi/leetcode-Notes/blob/main/%E6%95%B0%E7%BB%84/321.%20%E6%8B%BC%E6%8E%A5%E6%9C%80%E5%A4%A7%E6%95%B0.md)  |
 
